@@ -10,3 +10,4 @@ The popular Tic Tac Toe game written in the Love2D framework.
 * [Font](https://www.dafont.com/early-gameboy.font) - dafont website
 * [Classic module](https://github.com/rxi/classic) - github page
 * [Biopushy module](https://github.com/a327ex/boipushy) - github page
+* [Gameplay](https://youtu.be/ySW9wQj1UXM) - youtube
